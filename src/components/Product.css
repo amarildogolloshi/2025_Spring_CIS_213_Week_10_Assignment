@@ -1,0 +1,27 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #dcdcdc;
+    border-radius: 0.3rem;
+    padding: 1rem;
+}
+
+.product h3{
+    margin: 0;
+    padding: 0;
+}
+
+.product button{
+    background-color: #4baf50;
+    color: #f0f0f0;
+    border: none;
+    border-radius: 0.3rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 100;
+}
+
