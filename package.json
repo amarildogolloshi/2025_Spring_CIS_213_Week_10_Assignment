@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<your-username>.github.io/<your-repo>",
+  "homepage": "https://github.com/amarildogolloshi/2025_Spring_CIS_213_Week_10_Assignment",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
